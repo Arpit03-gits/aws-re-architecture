@@ -150,10 +150,10 @@ chmod +x scripts/setup.sh
 
 ## 👤 Author
 
-**Your Name**  
+Arpit Mishra 
 Cloud / DevOps Engineer  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-341203305/)
 
 ---
 
