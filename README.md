@@ -150,13 +150,9 @@ chmod +x scripts/setup.sh
 
 ## 👤 Author
 
-Arpit Mishra 
-Cloud / DevOps Engineer  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+Arpit kumar Mishra 
+DevOps Engineer  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Arpit03-gits)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-mishra-341203305/)
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
